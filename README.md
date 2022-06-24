@@ -16,6 +16,4 @@ More Info -> [mcwzh:User:DrLee_lihr](https://minecraft.fandom.com/zh/wiki/User:D
 
 
 
-[![DrLee-lihr's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrLee-lihr)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrLee-lihr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![DrLee-lihr's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrLee-lihr)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrLee-lihr)](https://github.com/anuraghazra/github-readme-stats)
