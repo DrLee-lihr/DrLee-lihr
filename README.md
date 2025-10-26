@@ -10,5 +10,3 @@ Obviously, I'm skilled in *none* of the above programming languanges.
 Contact
 - QQ: 465993851
 - Discord: drlee_lihr
-
-You can read [this](https://minecraft.fandom.com/zh/wiki/User:DrLee_lihr) to get more info about me.
